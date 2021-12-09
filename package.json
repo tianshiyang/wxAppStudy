@@ -1,0 +1,22 @@
+{
+  "name": "wxappstudy",
+  "version": "1.0.0",
+  "description": "create wxApp",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tianshiyang/wxAppStudy.git"
+  },
+  "author": "tianshiyang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tianshiyang/wxAppStudy/issues"
+  },
+  "homepage": "https://github.com/tianshiyang/wxAppStudy#readme",
+  "dependencies": {
+    "@vant/weapp": "^1.9.2"
+  }
+}
